@@ -1,0 +1,56 @@
+propel:
+  _attributes:
+    package: lib.model
+    defaultIdMethod: native
+  archive:
+    _attributes: { phpName: Archive }
+    id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
+    slug: { type: VARCHAR, size: '50', required: true }
+    month: { type: VARCHAR, size: '50', required: true }
+    nb: { type: INTEGER, size: '10', required: true }
+    _uniques: { slug: [slug] }
+  article:
+    _attributes: { phpName: Article }
+    id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
+    user_id: { type: INTEGER, size: '10', required: true }
+    title: { type: VARCHAR, size: '255', required: true }
+    body: { type: LONGVARCHAR, required: true }
+    created_at: { type: TIMESTAMP, required: true }
+    updated_at: { type: TIMESTAMP, required: true }
+    viewednb: { type: INTEGER, size: '10', required: true }
+    comment_nb: { type: INTEGER, size: '10', required: true }
+    isdraft: { type: TINYINT, size: '4', required: true }
+    archive_id: { type: INTEGER, size: '10', required: true }
+  article_tag:
+    _attributes: { phpName: ArticleTag }
+    tag_id: { type: INTEGER, size: '10', primaryKey: true, required: true, foreignTable: tag, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    article_id: { type: INTEGER, size: '10', primaryKey: true, required: true, foreignTable: article, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    _indexes: { article_id: [article_id] }
+  comment:
+    _attributes: { phpName: Comment }
+    id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
+    article_id: { type: INTEGER, size: '10', required: true, foreignTable: article, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    name: { type: VARCHAR, size: '15', required: true }
+    email: { type: VARCHAR, size: '50', required: false }
+    web: { type: VARCHAR, size: '200', required: false }
+    body: { type: LONGVARCHAR, required: true }
+    created_at: { type: TIMESTAMP, required: true }
+    updated_at: { type: TIMESTAMP, required: true }
+    ip: { type: VARCHAR, size: '20', required: true }
+    ipaddr: { type: VARCHAR, size: '100', required: true }
+    reply: { type: LONGVARCHAR, required: true }
+    replied_at: { type: TIMESTAMP, required: true }
+    isdel: { type: TINYINT, size: '4', required: true }
+    _indexes: { article_id: [article_id] }
+  tag:
+    _attributes: { phpName: Tag }
+    id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
+    name: { type: VARCHAR, size: '50', required: true }
+    slug: { type: VARCHAR, size: '50', required: true }
+    nb: { type: INTEGER, size: '10', required: true }
+    _uniques: { name: [name] }
+  user:
+    _attributes: { phpName: User }
+    id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
+    name: { type: VARCHAR, size: '20', required: true }
+    password: { type: VARCHAR, size: '255', required: true }

@@ -1,0 +1,61 @@
+# default rules
+
+page:
+  url:   page/:page.html
+  param: { module: index, action: index }
+
+homepage:
+  url:   /
+  param: { module: index, action: index }
+  
+alltags:
+  url:  /:module/all.html
+  param: { moudle: tag, action: all }
+    
+tag:
+  url:  /tag/:slug.html
+  class: sfPropelRoute
+  options: { model: Tag, type: object }
+  param: { module: tag, action: index }
+
+
+
+allarchives:
+  url:  /:module/all.html
+  param: { moudle: archive, action: all }
+
+archive:
+  url:  /archive/:slug.html
+  class: sfPropelRoute
+  options: { model: Archive, type: object }
+  param: { module: archive, action: index }
+
+article:
+  url:  /:id.html
+  param: { module: index, action: article}
+  
+
+  
+article_feed:
+  url:  /:module/articles.xml
+  param: { module： feed, action: index }
+
+comment_feed:
+  url:  /:module/comments.xml
+  param: { module: feed, action: comment}
+
+pages:
+  url:  /:action/
+  param:  { module: index}
+
+default:
+  url:   /:module/:action/*
+
+default_index:
+  url:   /:module/*.html
+  param: { action: index }
+
+
+
+  
+
