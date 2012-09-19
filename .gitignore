@@ -3,3 +3,4 @@ log
 cache/*/**
 log/*/**
 cache
+config/databases.yml
