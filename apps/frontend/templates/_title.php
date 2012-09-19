@@ -14,9 +14,12 @@
     <?php echo $article->getCreatedAt();?>
      . Tags:
      <?php $tags=$article->getArticleTags();
+		$tag=array_shift($tags);
+		echo link_to2($tag->getTag(),'tag',array('sf_route' => 'tag','sf_subject'=>$tag));
           foreach($tags as $tag){
+			echo ',&nbsp;';
             echo link_to2($tag->getTag(),'tag',array('sf_route' => 'tag','sf_subject'=>$tag));
-            echo ',&nbsp;';}?> 
+            }?> 
      
       
       <?php echo link_to($article->getCommentnb().' Comments','index/article?id='.$article->getId().'#comments');?> </li> </ul>

@@ -33,9 +33,12 @@ window.onload = function(){
     <?php echo $article->getCreatedAt();?>
      . Tags:
      <?php $tags=$article->getArticleTags();
+		$tag=array_shift($tags);
+		echo link_to2($tag->getTag(),'tag',array('sf_route' => 'tag','sf_subject'=>$tag));
           foreach($tags as $tag){
+			echo ',&nbsp;';
             echo link_to2($tag->getTag(),'tag',array('sf_route' => 'tag','sf_subject'=>$tag));
-            echo ',&nbsp;';}?> .
+            }?> 
      
       
       <?php echo link_to($article->getCommentnb().' Comments','index/article?id='.$article->getId().'#comments');?> </li> </ul>
@@ -48,15 +51,19 @@ window.onload = function(){
 		</div>
 		</div>
 		<div style="text-align:right">
-			<script>
-				document.writeln("<div id=\"socialbookmark\"><a href=\"javascript:window.open(\'http:\/\/v.t.sina.com.cn\/share\/share.php?title=\'+encodeURIComponent(document.title.substring(0,76))+\'&url=\'+encodeURIComponent(location.href)+\'&rcontent=\',\'_blank\',\'scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes\'); void 0\" style=\"color:#000000;text-decoration:none;font-size:12px;font-weight:normal\"><SPAN style=\"PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 10px; CURSOR: pointer; PADDING-TOP: 5px\"><IMG alt=转发到新浪微博 src=\"http:\/\/t.sina.com.cn\/favicon.ico\" align=absMiddle border=0>&nbsp;转发到新浪微博<\/SPAN><\/a>");
-
-document.writeln("<a href=\"javascript:window.open(\'http:\/\/www.kaixin001.com\/repaste\/share.php?rtitle=\'+encodeURIComponent(document.title.substring(0,76))+\'&rurl=\'+encodeURIComponent(location.href)+\'&rcontent=\',\'_blank\',\'scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes\'); void 0\" style=\"color:#000000;text-decoration:none;font-size:12px;font-weight:normal\"><SPAN style=\"PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 10px; CURSOR: pointer; PADDING-TOP: 5px\"><IMG alt=转帖到开心网 src=\"http:\/\/img1.kaixin001.com.cn\/i\/favicon.ico\" align=absMiddle border=0>&nbsp;转帖到开心网<\/SPAN><\/a>");
-
-document.writeln("<a href=\"javascript:window.open(\'http://share.renren.com/share/buttonshare.do?title=\'+encodeURIComponent(document.title.substring(0,76))+\'&link=\'+encodeURIComponent(location.href)+\'&content=\',\'_blank\',\'scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes\'); void 0\" style=\"color:#000000;text-decoration:none;font-size:12px;font-weight:normal\"><SPAN style=\"PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 10px; CURSOR: pointer; PADDING-TOP: 5px\"><IMG alt=转帖到人人网 src=\"http:\/\/s.xnimg.cn\/favicon-rr.ico\" align=absMiddle border=0>&nbsp;转帖到人人网<\/SPAN><\/a><\/div>");
-
-
-			</script>
+		
+<!-- JiaThis Button BEGIN -->
+<div id="ckepop">
+	<a class="jiathis_button_douban">豆瓣</a>
+	<a class="jiathis_button_linkedin">LinkedIn</a>	
+	<a class="jiathis_button_delicious">Delicious</a>	
+	<a class="jiathis_button_tools_1"></a>
+	<a class="jiathis_button_tools_2"></a>
+	<a class="jiathis_button_twitter">Twitter</a>
+	<a class="jiathis_button_fb">Facebook</a>
+	<a href="http://www.jiathis.com/share/?uid=902227" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank">更多</a>
+</div>
+<!-- JiaThis Button END -->
 		</div>
 		<div class="clear"></div>
 		<hr/>
@@ -119,3 +126,4 @@ document.writeln("<a href=\"javascript:window.open(\'http://share.renren.com/sha
 		  </table>
 		  <input type="hidden" name="id" value="<?php echo $articleid?>"/>
 		</form>
+<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js?uid=902227" charset="utf-8"></script>

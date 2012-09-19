@@ -21,6 +21,7 @@
     <?php include_slot('header'); ?>
     
   </head>
+
  <body>
     <div id="bgcontain"> 
         <div id="header">
@@ -59,11 +60,13 @@
 	<ul>
 	  <li>
 	  <li>
+	  <g:plusone size="small" annotation="inline"></g:plusone>
 	    <h2>Subscribe</h2>
 	    <ul>
 	      <li class="rss"><!--<?php //echo link_to('Posts','feed/index');?>-->
 			<a href="http://feeds.feedburner.com/mkad">Posts</a></li>
 	      <li class="rss"><?php echo link_to('Comments','feed/comment');?></li>
+	      
 	    </ul>
 	  </li>
 	  <li>
@@ -85,8 +88,7 @@
    <li>
     <h2>Links</h2>
       <ul>
-        <!--<li><a href="http://magicpocket.info/" target="_blank" title="我做的一个澳洲华人的二手及工作信息发布平台">
-          MagicPocket</a></li>-->
+        <li><a href="http://zhouli.in" target="_blank" title="周莉财经">周莉财经</a>
         <li><a href="http://space.yeeyan.org/u/67733" target="_blank" title="Something on Yeeyan">
           My Yeeyan</a></li>
         <li><a href="http://log.dongsheng.org/" target="_blank">Dongsheng</a></li>
@@ -108,7 +110,17 @@
 	    <h2>Thanks to Wikipedia</h2>
 	      <a target="_blank" href="http://wikimediafoundation.org/wiki/Support_Wikipedia/en"><img style="margin-top:5px;" border="0" alt="Wikipedia Affiliate Button" src="http://wikimediafoundation.org/w/extensions/skins/Donate/images/banners/Banner_125x125_0001_B.jpg" /></a>
 	  </li>-->
-   
+   <script type="text/javascript"><!--
+google_ad_client = "ca-pub-5039372918023729";
+/* blog */
+google_ad_slot = "9172111164";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 	</ul>
 <?php endif; ?>
 </div>
@@ -117,8 +129,7 @@
        
 		<div id="footer">
 			<p>
-				Powered by <a href="#" title="It's Jishi's Website.">Jishi</a> and <a href="http://www.symfony-project.org/" rel="external" target="_blank">Symfony</a>. Theme designed by <a href="http://www.hoofei.com/" target="_blank">Hoofei</a>
-			</p>
+				Powered by <a href="#" title="It's Jishi's Website.">Jishi</a> and <a href="http://www.symfony-project.org/" rel="external" target="_blank">Symfony</a>. Theme designed by <a href="http://www.hoofei.com/" target="_blank">Hoofei</a></p>
 
 		</div>
 
@@ -134,4 +145,11 @@ try {
 var pageTracker = _gat._getTracker("UA-8816834-3");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 </html>
