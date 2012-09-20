@@ -9,7 +9,7 @@
 			<?php 
 					$pwd = $article->getPwd();	
 					if(isset($pwd)){ ?>
-						<p>该文章被密码保护，如继续阅读请动用一切手段向博主索要密码</p>
+						<p>该文章被密码保护，如继续阅读请向博主索要密码</p>
 						<form action="<?php echo url_for('index/article?id='.$article->getId());?>" method="post" accept-charset="utf-8">
 					   <input type="text" name="pwd" id="pwd" value="" />		
 						 <input type="submit" value="Submit" />
