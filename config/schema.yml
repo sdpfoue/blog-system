@@ -12,7 +12,7 @@ propel:
   article:
     _attributes: { phpName: Article }
     id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
-    user_id: { type: INTEGER, size: '10', required: true }
+    user_id: { type: INTEGER, size: '10', required: true, foreignTable: user, foreignReference: id, onDelete: CASCADE, onUpdate: RESTRICT }
     title: { type: VARCHAR, size: '255', required: true }
     body: { type: LONGVARCHAR, required: true }
     created_at: { type: TIMESTAMP, required: true }
@@ -21,15 +21,17 @@ propel:
     comment_nb: { type: INTEGER, size: '10', required: true }
     isdraft: { type: TINYINT, size: '4', required: true }
     archive_id: { type: INTEGER, size: '10', required: true }
+    pwd: { type: CHAR, size: '10', required: false }
+    _indexes: { user_id: [user_id] }
   article_tag:
     _attributes: { phpName: ArticleTag }
-    tag_id: { type: INTEGER, size: '10', primaryKey: true, required: true, foreignTable: tag, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
-    article_id: { type: INTEGER, size: '10', primaryKey: true, required: true, foreignTable: article, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    tag_id: { type: INTEGER, size: '10', primaryKey: true, required: true, foreignTable: tag, foreignReference: id, onDelete: CASCADE, onUpdate: RESTRICT }
+    article_id: { type: INTEGER, size: '10', primaryKey: true, required: true, foreignTable: article, foreignReference: id, onDelete: CASCADE, onUpdate: RESTRICT }
     _indexes: { article_id: [article_id] }
   comment:
     _attributes: { phpName: Comment }
     id: { type: INTEGER, size: '10', primaryKey: true, autoIncrement: true, required: true }
-    article_id: { type: INTEGER, size: '10', required: true, foreignTable: article, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    article_id: { type: INTEGER, size: '10', required: true, foreignTable: article, foreignReference: id, onDelete: CASCADE, onUpdate: RESTRICT }
     name: { type: VARCHAR, size: '15', required: true }
     email: { type: VARCHAR, size: '50', required: false }
     web: { type: VARCHAR, size: '200', required: false }

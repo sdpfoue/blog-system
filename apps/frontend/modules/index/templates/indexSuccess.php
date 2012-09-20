@@ -6,12 +6,19 @@
 		
 		
 		<div class="fentry">
-			<?php echo $content=myUser::cutp($article->getBody(),1500);?>
-			<div class="clear"></div>
-			<?php if($content!=$article->getBody()):?>
-<p> <?php echo link_to('Continue reading...','index/article?id='.$article->getId());?></p>
-			<?php endif;?>
-		</div>
+			<?php 
+					$pwd = $article->getPwd();	
+					var_dump($pwd);
+					if(isset($pwd)){ ?>
+
+			<?php }else{ ?>
+				<?php echo $content=myUser::cutp($article->getBody(),1500);?>
+				<div class="clear"></div>
+				<?php if($content!=$article->getBody()):?>
+					<p> <?php echo link_to('Continue reading...','index/article?id='.$article->getId());?></p>
+				<?php endif;?>
+			<?php }?>	
+			</div>
 		</div>		
 <?php endforeach; ?>
 <div style="text-align:center">
