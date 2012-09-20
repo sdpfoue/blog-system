@@ -41,12 +41,23 @@ window.onload = function(){
             }?> 
      
       
-      <?php echo link_to($article->getCommentnb().' Comments','index/article?id='.$article->getId().'#comments');?> </li> </ul>
+			<?php 
+		  $comments = $article->getCommentnb()==1 ? ' Comment' : ' Comments';					
+			echo link_to($article->getCommentnb().$comments,'index/article?id='.$article->getId().'#comments');?> </li> </ul>
 
 		
 		<div class="clear"></div>
 		<div class="entry">
-			<?php $n=0; echo $article->getBody();?>
+			<?php $pwd = $article->getPwd();
+						if(isset($pwd) && (!isset($_POST['pwd']) || $pwd != $_POST['pwd'])):?>
+				<p>该文章被作者加密，请向作者索要密码</p>
+			  <form style="text-align:left;" action="" method="post" accept-charset="utf-8">
+					<input type="text" name="pwd" id="pwd" value="" />
+					<input type="submit" value="Submit" />
+				</form>
+			<?php else:?>
+				<?php echo $article->getBody();?>
+			<?php endif;?>
 			
 		</div>
 		</div>
@@ -67,11 +78,11 @@ window.onload = function(){
 		</div>
 		<div class="clear"></div>
 		<hr/>
-		<h3 id="comments"><?php echo $article->getCommentNb();?> Comments</h3><br/>
+		<h3 id="comments"><?php echo $article->getCommentNb().$comments;?> </h3><br/>
 		
 		<!--评论内容开始 -->
 		<ol class="commentlist">
-      <?php foreach($comments as $comment):?>
+      <?php $n=0; foreach($comments as $comment):?>
       <?php $n++; if($n%2==1)$st='odd';else $st='even';?>
       
       <li id="comment-<?php echo $comment->getId();?>" class="comment <?php echo $st;?>" >
