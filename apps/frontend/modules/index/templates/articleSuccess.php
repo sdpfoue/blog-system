@@ -42,8 +42,8 @@ window.onload = function(){
      
       
 			<?php 
-		  $comments = $article->getCommentnb()==1 ? ' Comment' : ' Comments';					
-			echo link_to($article->getCommentnb().$comments,'index/article?id='.$article->getId().'#comments');?> </li> </ul>
+		  $comments_str = $article->getCommentnb()==1 ? ' Comment' : ' Comments';					
+			echo link_to($article->getCommentnb().$comments_str,'index/article?id='.$article->getId().'#comments_str');?> </li> </ul>
 
 		
 		<div class="clear"></div>
@@ -78,7 +78,7 @@ window.onload = function(){
 		</div>
 		<div class="clear"></div>
 		<hr/>
-		<h3 id="comments"><?php echo $article->getCommentNb().$comments;?> </h3><br/>
+		<h3 id="comments"><?php echo $article->getCommentNb().$comments_str;?> </h3><br/>
 		
 		<!--评论内容开始 -->
 		<ol class="commentlist">
