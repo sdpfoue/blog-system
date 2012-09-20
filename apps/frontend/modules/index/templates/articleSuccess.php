@@ -49,14 +49,17 @@ window.onload = function(){
 		<div class="clear"></div>
 		<div class="entry">
 			<?php $pwd = $article->getPwd();
-						if(isset($pwd) && (!isset($_POST['pwd']) || $pwd != $_POST['pwd'])):?>
+						if(!$sf_user->isAuthenticated() && isset($pwd) && (!isset($_POST['pwd']) || $pwd != $_POST['pwd'])):?>
 				<p>该文章被作者加密，请向作者索要密码</p>
 			  <form style="text-align:left;" action="" method="post" accept-charset="utf-8">
 					<input type="text" name="pwd" id="pwd" value="" />
 					<input type="submit" value="Submit" />
 				</form>
 			<?php else:?>
-				<?php echo $article->getBody();?>
+				<?php echo $article->getBody(); $is_auth = true;?>
+				<?php if($sf_user->isAuthenticated()):?>
+					<p><input type="text" name="" id="" value="<?php echo $article->getPwd()?>" /></p>
+				<?php endif;?>
 			<?php endif;?>
 			
 		</div>
@@ -131,7 +134,12 @@ window.onload = function(){
 		  <table>
 		    <?php echo $form ?>
 		    <tr>
-		      <td colspan="2" align="center"><?php echo submit_image_tag('submit.png',array('id'=>
+				<td colspan="2" align="center">
+<?php if($is_auth):?>
+<input type="hidden" name="pwd" id="pwd" value="<?php echo $article->getPwd();?>" />
+<?php endif;?>
+
+<?php echo submit_image_tag('submit.png',array('id'=>
 		        'submit'));?><noscript><span style="color:red"><strong>requires javascript to be senabled</strong></span></noscript></td>
 		    <tr>
 		  </table>

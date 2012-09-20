@@ -61,10 +61,10 @@ class indexActions extends sfActions
         $article->setCommentNb($article->getCommentNb()+1);
         $article->save();
         $newid=$form->getObject()->getId();
-        $this->redirect('index/article?id='.$articleid.'#comment-'.$newid);
       }
-      else
+      else{
         $this->form=$form;      
+			}
     }
     $this->comments=$this->article->getUndelComments();
   }
