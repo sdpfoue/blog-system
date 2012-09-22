@@ -16,7 +16,7 @@ class tagActions extends sfActions
   * @param sfRequest $request A request object
   */
   
-  protected $max_per_page=5;
+  protected $max_per_page=20;
   public function executeIndex(sfWebRequest $request)
   {
     $tag=$this->getRoute()->getObject();
