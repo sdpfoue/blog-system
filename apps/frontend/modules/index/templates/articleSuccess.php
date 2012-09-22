@@ -58,7 +58,8 @@ if(!$sf_user->isAuthenticated() && isset($pwd) && (!isset($_POST['pwd']) || $pwd
 			<?php else:?>
 				<?php echo $article->getBody(); $is_auth = true;?>
 				<?php if($sf_user->isAuthenticated()):?>
-					<p><input type="text" name="" id="" value="<?php echo $article->getPwd()?>" /></p>
+					<p><input type="text" name="" id="" value="<?php echo $article->getPwd()?>" /><?php echo link_to('生成密码', 'tongjishi/GeneratePwd?id='.$article->getId());?>&nbsp;&nbsp;<?php	echo link_to('删除密码', 'tongjishi/DelPwd?id='.$article->getId());?>	 </p>
+		
 				<?php endif;?>
 			<?php endif;?>
 
