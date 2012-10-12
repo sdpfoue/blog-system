@@ -9,7 +9,8 @@
 			<?php 
 					$pwd = $article->getPwd();	
 					if(isset($pwd)){ ?>
-						<p>该文章被密码保护，如继续阅读请向博主索要密码</p>
+						<?php echo strpos($article->getBody(), '<!--pwd-->') === false ? '' : preg_replace('/(.*)<!--pwd-->.*/s', '$1', $article->getBody()); ?>
+						<p><b><u>此内容被作者加密，继续阅读请向作者索要密码</u></b></p>
 						<form action="<?php echo url_for('index/article?id='.$article->getId());?>" method="post" accept-charset="utf-8">
 					   <input type="text" name="pwd" id="pwd" value="" />		
 						 <input type="submit" value="Submit" />

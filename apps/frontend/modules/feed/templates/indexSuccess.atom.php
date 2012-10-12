@@ -24,7 +24,9 @@ foreach($tags as $tag){
 		if(is_null($article->getPwd())){ 
 			echo preg_replace("/<script(.*)<\/script>|<object([\S\s]+?)<\/object>/", "",strtr($article->getBody(),$table));
 		}else{
-			echo '<p>该文章被加密，请与博主索要密码并到网站阅读</p>';
+			$body = strpos($article->getBody(), '<!--pwd-->') === false ? '' : preg_replace('/(.*)<!--pwd-->.*/s', '$1', $article->getBody());
+			echo preg_replace("/<script(.*)<\/script>|<object([\S\s]+?)<\/object>/", "",strtr($body,$table)); 
+			echo '<p>此内容被作者加密，继续阅读请与博主索要密码并到网站阅读</p>';
 		}
 ?>
 		</div></summary>

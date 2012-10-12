@@ -50,7 +50,8 @@ echo link_to($article->getCommentnb().$comments_str,'index/article?id='.$article
 		<div class="entry">
 <?php $pwd = $article->getPwd();
 if(!$sf_user->isAuthenticated() && isset($pwd) && (!isset($_POST['pwd']) || $pwd != $_POST['pwd'])):?>
-				<p>该文章被作者加密，请向作者索要密码</p>
+				<?php echo strpos($article->getBody(), '<!--pwd-->') === false ? '' : preg_replace('/(.*)<!--pwd-->.*/s', '$1', $article->getBody()); ?>	
+				<p><b><u>此内容被作者加密，继续阅读请向作者索要密码</u></b></p>
 				<form style="text-align:left;" action="" method="post" accept-charset="utf-8">
 					<input type="text" name="pwd" id="pwd" value="" />
 					<input type="submit" value="Submit" />
