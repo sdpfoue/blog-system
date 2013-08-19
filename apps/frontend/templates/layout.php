@@ -39,7 +39,6 @@
 
 <li class="<?php if($module=='index'&&$action=='douban')echo 'current_page_item'?>"><a href="<?php echo url_for('index/douban');?>" title="Douban">Douban</a></li>
 
-<li class="<?php if($module=='index'&&$action=='share')echo 'current_page_item'?>"><a href="<?php echo url_for('index/share');?>" title="Share">Share</a></li>
 
 <!-- <li class="<?php if($module=='index'&&$action=='timetable')echo 'current_page_item'?>"><a href="<?php echo url_for('index/timetable');?>" title="Timetable">Timetable</a></li>-->
 
@@ -73,14 +72,7 @@
 	    <h2>Recent Posts</h2>
 	    <?php include_component('index','recentpost');?>
 	  </li>
-	  
-		<li>
-		<h2>Shared Articles</h2>
-    <script type="text/javascript" src="http://www.google.com.au/reader/ui/publisher-en.js"></script>
-<script type="text/javascript" src="http://www.google.com.au/reader/public/javascript/user/09307877042901645103/state/com.google/broadcast?n=10&callback=GRC_p(%7Bc%3A%22-%22%2Ct%3A%22%22%2Cs%3A%22false%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
-<div style="display:block;text-align:right;"><?php echo link_to('Read more...','index/share');?></div>
-		</li>
-		
+	
 			<li>
     <h2>Tags</h2>
       <?php include_component('tag','sidebar');?>
@@ -101,10 +93,12 @@
       <?php include_component('archive','archive');?>
    </li>
    
+<!--
    <li>
 	<h2>Latitude</h2>
 		<iframe src="http://www.google.com/latitude/apps/badge/api?user=-2973367468695175468&type=iframe&maptype=roadmap&z=7" width="200" height="300" frameborder="0"></iframe>
    </li>
+-->
    <!--
    <li>
 	    <h2>Thanks to Wikipedia</h2>
