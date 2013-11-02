@@ -11,7 +11,7 @@
     <?php $module=$sf_request->getParameter('module');
           $action=$sf_request->getParameter('action');  ?>
     <title><?php include_slot('title') ?>Make A Difference</title>
-    <link rel="shortcut icon" href="http://tjsweb.info/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <!--<link rel="alternate" type="application/atom+xml" title="Articles"
   href="<?php //echo url_for('feed/index', true) ?>" />-->
 	<link rel="alternate" type="application/rss+xml" title="Articles"
@@ -80,9 +80,7 @@
    <li>
     <h2>Links</h2>
       <ul>
-        <li><a href="http://zhouli.in" target="_blank" title="周莉财经">周莉财经</a>
-        <li><a href="http://space.yeeyan.org/u/67733" target="_blank" title="Something on Yeeyan">
-          My Yeeyan</a></li>
+        <li><a href="http://tech.tjs.im" target="_blank" >我的技术笔记</a>
         <li><a href="http://log.dongsheng.org/" target="_blank">Dongsheng</a></li>
         <li><a href="http://4everyoung.cn/blog/" target="_blank">4everyoung</a></li>
         <li><a href="http://terrywang.net/" target="_blank" title="terry's blog">KISS</a></li>
