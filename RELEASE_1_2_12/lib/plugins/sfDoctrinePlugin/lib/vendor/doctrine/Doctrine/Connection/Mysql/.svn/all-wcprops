@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Connection/Mysql
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Connection/Mysql/Exception.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/test
+END
+sfTestCoverageTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/test/sfTestCoverageTask.class.php
+END
+sfTestUnitTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/test/sfTestUnitTask.class.php
+END
+sfTestFunctionalTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/test/sfTestFunctionalTask.class.php
+END
+sfTestAllTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/test/sfTestAllTask.class.php
+END

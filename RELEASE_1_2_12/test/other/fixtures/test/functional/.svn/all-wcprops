@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/other/fixtures/test/functional
+END
+result.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/other/fixtures/test/functional/result.txt
+END
+result-harness.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/other/fixtures/test/functional/result-harness.txt
+END

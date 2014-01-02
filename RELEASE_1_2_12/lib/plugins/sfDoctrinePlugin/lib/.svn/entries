@@ -1,0 +1,107 @@
+10
+
+dir
+33658
+http://svn.symfony-project.com/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/lib
+http://svn.symfony-project.com
+
+
+
+2010-01-21T12:32:30.241370Z
+26982
+FabianLange
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+test
+dir
+
+helper
+dir
+
+log
+dir
+
+widget
+dir
+
+validator
+dir
+
+generator
+dir
+
+debug
+dir
+
+routing
+dir
+
+vendor
+dir
+
+pager
+dir
+
+task
+dir
+
+form
+dir
+
+database
+dir
+
+cli
+dir
+
+sfDoctrineException.class.php
+file
+
+
+
+
+2014-01-02T06:57:02.000000Z
+9c43a319ed746276b79640b9b21fd4e7
+2008-09-17T22:22:25.127250Z
+11629
+Jonathan.Wage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+655
+
+record
+dir
+

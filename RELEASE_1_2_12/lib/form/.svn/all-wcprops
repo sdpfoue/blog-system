@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/form
+END
+sfForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/form/sfForm.class.php
+END
+sfFormField.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/form/sfFormField.class.php
+END
+sfFormFieldSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/form/sfFormFieldSchema.class.php
+END
+sfFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/form/sfFormFilter.class.php
+END

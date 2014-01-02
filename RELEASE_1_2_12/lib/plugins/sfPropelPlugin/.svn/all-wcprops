@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/LICENSE
+END
+LICENSE.Propel
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/LICENSE.Propel
+END
+LICENSE.phing
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/LICENSE.phing
+END
+LICENSE.Agavi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/LICENSE.Agavi
+END
+LICENSE.famfamfam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/LICENSE.famfamfam
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/configure
+END
+sfConfigureAuthorTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/configure/sfConfigureAuthorTask.class.php
+END
+sfConfigureDatabaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/configure/sfConfigureDatabaseTask.class.php
+END

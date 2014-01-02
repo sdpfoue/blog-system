@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/articles/templates
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/articles/templates/editSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/articles/templates/indexSuccess.php
+END

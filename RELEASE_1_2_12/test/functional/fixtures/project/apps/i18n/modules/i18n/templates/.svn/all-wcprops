@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/i18n/modules/i18n/templates
+END
+i18nFormSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/i18n/modules/i18n/templates/i18nFormSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/i18n/modules/i18n/templates/indexSuccess.php
+END

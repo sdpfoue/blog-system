@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing
+END
+sfPathInfoRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfPathInfoRoutingTest.php
+END
+sfObjectRouteCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfObjectRouteCollectionTest.php
+END
+sfNoRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfNoRoutingTest.php
+END
+sfObjectRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfObjectRouteTest.php
+END
+sfPatternRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfPatternRoutingTest.php
+END
+sfRequestRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfRequestRouteTest.php
+END
+sfRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/routing/sfRouteTest.php
+END

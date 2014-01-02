@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/i18n/extract
+END
+sfI18nPhpExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/i18n/extract/sfI18nPhpExtractorTest.php
+END
+sfI18nYamlGeneratorExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/i18n/extract/sfI18nYamlGeneratorExtractorTest.php
+END
+sfI18nYamlValidateExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/i18n/extract/sfI18nYamlValidateExtractorTest.php
+END
+sfI18nExtractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/i18n/extract/sfI18nExtractTest.php
+END

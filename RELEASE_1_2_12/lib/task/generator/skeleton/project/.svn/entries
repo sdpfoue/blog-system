@@ -1,0 +1,92 @@
+10
+
+dir
+33658
+http://svn.symfony-project.com/tags/RELEASE_1_2_12/lib/task/generator/skeleton/project
+http://svn.symfony-project.com
+
+
+
+2008-11-29T17:17:16.579585Z
+13498
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+test
+dir
+
+log
+dir
+
+plugins
+dir
+
+apps
+dir
+
+cache
+dir
+
+symfony
+file
+
+
+
+
+2014-01-02T06:57:00.000000Z
+ec0244c82ba8f52899e48b4e473f78e8
+2008-11-27T18:10:40.723278Z
+13444
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+446
+
+config
+dir
+
+doc
+dir
+
+lib
+dir
+
+data
+dir
+
+web
+dir
+

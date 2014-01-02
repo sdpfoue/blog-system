@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/yaml
+END
+sfYamlDumper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/yaml/sfYamlDumper.class.php
+END
+sfYamlParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/yaml/sfYamlParser.class.php
+END
+sfYamlInline.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/yaml/sfYamlInline.class.php
+END
+sfYaml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/yaml/sfYaml.class.php
+END

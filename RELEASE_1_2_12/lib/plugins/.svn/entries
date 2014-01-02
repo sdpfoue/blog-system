@@ -1,0 +1,40 @@
+10
+
+dir
+33658
+http://svn.symfony-project.com/tags/RELEASE_1_2_12/lib/plugins
+http://svn.symfony-project.com
+
+
+
+2010-02-25T14:07:53.464742Z
+28287
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+sfDoctrinePlugin
+dir
+
+sfProtoculousPlugin
+dir
+
+sfPropelPlugin
+dir
+
+sfCompat10Plugin
+dir
+

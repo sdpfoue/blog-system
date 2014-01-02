@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Record/State
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Record/State/Exception.php
+END

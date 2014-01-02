@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web
+END
+frontend_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/frontend_dev.php
+END
+i18n_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/i18n_dev.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/i18n.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/robots.txt
+END
+cache_dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/cache_dev.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/cache.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/web/index.php
+END

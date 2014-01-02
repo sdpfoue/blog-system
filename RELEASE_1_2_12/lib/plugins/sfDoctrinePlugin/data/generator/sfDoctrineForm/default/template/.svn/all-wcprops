@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template
+END
+sfDoctrineFormBaseTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormBaseTemplate.php
+END
+sfDoctrineFormGeneratedTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormGeneratedTemplate.php
+END
+sfDoctrineFormPluginTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormPluginTemplate.php
+END
+sfDoctrinePluginFormTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrinePluginFormTemplate.php
+END
+sfDoctrineFormTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineForm/default/template/sfDoctrineFormTemplate.php
+END

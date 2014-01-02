@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures
+END
+YtsSpecificationExamples.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsSpecificationExamples.yml
+END
+sfObjects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/sfObjects.yml
+END
+YtsAnchorAlias.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsAnchorAlias.yml
+END
+sfTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/sfTests.yml
+END
+YtsDocumentSeparator.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsDocumentSeparator.yml
+END
+sfMergeKey.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/sfMergeKey.yml
+END
+YtsBasicTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsBasicTests.yml
+END
+YtsFoldedScalars.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsFoldedScalars.yml
+END
+YtsFlowCollections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsFlowCollections.yml
+END
+YtsBlockMapping.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsBlockMapping.yml
+END
+index.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/index.yml
+END
+YtsNullsAndEmpties.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsNullsAndEmpties.yml
+END
+YtsTypeTransfers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsTypeTransfers.yml
+END
+YtsErrorTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/YtsErrorTests.yml
+END
+sfComments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/fixtures/sfComments.yml
+END

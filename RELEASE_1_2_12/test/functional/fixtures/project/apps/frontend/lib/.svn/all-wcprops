@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/lib
+END
+myAppsFrontendLibClass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/lib/myAppsFrontendLibClass.class.php
+END
+myFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/lib/myFilter.class.php
+END
+myAutoloadedClass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/lib/myAutoloadedClass.class.php
+END
+myAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/lib/myAutoload.class.php
+END
+myUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/lib/myUser.class.php
+END

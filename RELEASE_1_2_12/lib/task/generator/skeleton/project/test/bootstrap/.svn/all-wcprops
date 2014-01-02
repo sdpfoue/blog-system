@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/generator/skeleton/project/test/bootstrap
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/generator/skeleton/project/test/bootstrap/unit.php
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/generator/skeleton/project/test/bootstrap/functional.php
+END

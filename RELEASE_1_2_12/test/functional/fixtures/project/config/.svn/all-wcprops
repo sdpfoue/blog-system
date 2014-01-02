@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config/propel.ini
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config/ProjectConfiguration.class.php
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config/filters.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config/properties.ini
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/config/view.yml
+END

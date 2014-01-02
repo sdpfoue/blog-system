@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing
+END
+sfRoute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfRoute.class.php
+END
+sfPathInfoRouting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfPathInfoRouting.class.php
+END
+sfObjectRouteCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfObjectRouteCollection.class.php
+END
+sfNoRouting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfNoRouting.class.php
+END
+sfObjectRoute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfObjectRoute.class.php
+END
+sfPatternRouting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfPatternRouting.class.php
+END
+sfRequestRoute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfRequestRoute.class.php
+END
+sfRouting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfRouting.class.php
+END
+sfRouteCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/routing/sfRouteCollection.class.php
+END

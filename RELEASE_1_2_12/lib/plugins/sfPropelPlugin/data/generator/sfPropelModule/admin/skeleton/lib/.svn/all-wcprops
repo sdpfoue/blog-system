@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/skeleton/lib
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/skeleton/lib/helper.php
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/skeleton/lib/configuration.php
+END

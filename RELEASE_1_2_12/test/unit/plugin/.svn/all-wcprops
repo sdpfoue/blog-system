@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin
+END
+sfPluginTestHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin/sfPluginTestHelper.class.php
+END
+sfPearRestPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin/sfPearRestPluginTest.php
+END
+sfPearRestTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin/sfPearRestTest.class.php
+END
+sfPluginManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin/sfPluginManagerTest.php
+END
+sfPearDownloaderTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin/sfPearDownloaderTest.class.php
+END
+sfPearEnvironmentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/plugin/sfPearEnvironmentTest.php
+END

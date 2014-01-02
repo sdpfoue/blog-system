@@ -1,6 +1,9 @@
 <?php
+//echo realpath(dirname(__FILE__).'/../RELEASE_1_2_12/lib/autoload/sfCoreAutoload.class.php');
+//DIE;
 
-require_once '/home/stephen/libs/symfony-1.2.12/symfony-1.2.12/lib/autoload/sfCoreAutoload.class.php';
+$autoload =  realpath(dirname(__FILE__).'/../RELEASE_1_2_12/lib/autoload/sfCoreAutoload.class.php');
+require_once $autoload;
 sfCoreAutoload::register();
 
 class ProjectConfiguration extends sfProjectConfiguration

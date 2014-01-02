@@ -1,0 +1,43 @@
+10
+
+dir
+33658
+http://svn.symfony-project.com/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/i18n/modules/i18n
+http://svn.symfony-project.com
+
+
+
+2008-04-27T15:37:17.436750Z
+8645
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+i18n
+dir
+
+actions
+dir
+
+config
+dir
+
+lib
+dir
+
+templates
+dir
+

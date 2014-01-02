@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfProtoculousPlugin
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfProtoculousPlugin/LICENSE
+END
+LICENSE.prototype
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfProtoculousPlugin/LICENSE.prototype
+END
+LICENSE.script.aculo.us
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfProtoculousPlugin/LICENSE.script.aculo.us
+END

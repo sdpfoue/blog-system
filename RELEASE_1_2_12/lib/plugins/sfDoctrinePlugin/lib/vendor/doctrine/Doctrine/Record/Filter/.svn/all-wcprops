@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Record/Filter
+END
+Standard.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Record/Filter/Standard.php
+END
+Compound.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Record/Filter/Compound.php
+END

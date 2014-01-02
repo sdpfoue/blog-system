@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/modules/autoload/templates
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/modules/autoload/templates/indexSuccess.php
+END
+myAutoloadSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/functional/fixtures/project/apps/frontend/modules/autoload/templates/myAutoloadSuccess.php
+END
