@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget
+END
+sfWidgetFormInputHiddenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormInputHiddenTest.php
+END
+sfWidgetFormDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormDateTest.php
+END
+sfWidgetFormTextareaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormTextareaTest.php
+END
+sfWidgetFormSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSelectTest.php
+END
+sfWidgetFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormTest.php
+END
+sfWidgetFormSchemaFormatterListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSchemaFormatterListTest.php
+END
+sfWidgetFormInputPasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormInputPasswordTest.php
+END
+sfWidgetFormSchemaFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSchemaFormatterTest.php
+END
+sfWidgetFormSelectCheckboxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSelectCheckboxTest.php
+END
+sfWidgetFormSchemaForEachTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSchemaForEachTest.php
+END
+sfWidgetFormInputFileEditableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormInputFileEditableTest.php
+END
+sfWidgetFormChoiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormChoiceTest.php
+END
+sfWidgetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetTest.php
+END
+sfWidgetFormSchemaFormatterTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSchemaFormatterTableTest.php
+END
+sfWidgetFormDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormDateTimeTest.php
+END
+sfWidgetFormSelectRadioTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSelectRadioTest.php
+END
+sfWidgetFormTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormTimeTest.php
+END
+sfWidgetFormInputTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormInputTest.php
+END
+sfWidgetFormInputFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormInputFileTest.php
+END
+sfWidgetFormSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSchemaTest.php
+END
+sfWidgetFormSchemaDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSchemaDecoratorTest.php
+END
+sfWidgetFormSelectManyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormSelectManyTest.php
+END
+sfWidgetFormInputCheckboxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/widget/sfWidgetFormInputCheckboxTest.php
+END

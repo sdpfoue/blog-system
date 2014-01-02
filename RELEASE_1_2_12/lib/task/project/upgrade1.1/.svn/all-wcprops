@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1
+END
+sfWebDebugUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfWebDebugUpgrade.class.php
+END
+sfViewCacheManagerUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfViewCacheManagerUpgrade.class.php
+END
+sfFlashUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfFlashUpgrade.class.php
+END
+sfSettingsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfSettingsUpgrade.class.php
+END
+sfPropelUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfPropelUpgrade.class.php
+END
+sfSingletonUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfSingletonUpgrade.class.php
+END
+sfComponentUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfComponentUpgrade.class.php
+END
+sfEnvironmentUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfEnvironmentUpgrade.class.php
+END
+sfConfigUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfConfigUpgrade.class.php
+END
+sfConfigFileUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfConfigFileUpgrade.class.php
+END
+sfLayoutUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfLayoutUpgrade.class.php
+END
+sfUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfUpgrade.class.php
+END
+sfTestUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfTestUpgrade.class.php
+END
+sfLoggerUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfLoggerUpgrade.class.php
+END
+sfFactoriesUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.1/sfFactoriesUpgrade.class.php
+END

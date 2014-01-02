@@ -1,0 +1,8 @@
+K 13
+svn:externals
+V 265
+phing http://phing.mirror.svn.symfony-project.com/tags/2.3.3/classes/phing
+propel -r1102  http://propel.mirror.svn.symfony-project.com/branches/1.3/runtime/classes/propel/
+propel-generator -r1102 http://propel.mirror.svn.symfony-project.com/branches/1.3/generator/
+
+END

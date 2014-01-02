@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/lib/validator
+END
+sfValidatorDoctrineChoiceMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineChoiceMany.class.php
+END
+sfDoctrineUniqueValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/lib/validator/sfDoctrineUniqueValidator.class.php
+END
+sfValidatorDoctrineUnique.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineUnique.class.php
+END
+sfValidatorDoctrineChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineChoice.class.php
+END

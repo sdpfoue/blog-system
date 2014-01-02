@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/schema.yml
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/rsync_exclude.txt
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/test/functional/fixtures/config/properties.ini
+END

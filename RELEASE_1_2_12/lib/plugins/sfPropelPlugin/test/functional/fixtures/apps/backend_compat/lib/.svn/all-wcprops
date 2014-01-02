@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/lib
+END
+myUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/lib/myUser.class.php
+END

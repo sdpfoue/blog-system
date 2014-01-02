@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/validator/i18n
+END
+sfValidatorI18nChoiceCountry.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/validator/i18n/sfValidatorI18nChoiceCountry.class.php
+END
+sfValidatorI18nChoiceLanguage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/validator/i18n/sfValidatorI18nChoiceLanguage.class.php
+END

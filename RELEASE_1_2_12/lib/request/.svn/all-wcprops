@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/request
+END
+sfWebRequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/request/sfWebRequest.class.php
+END
+sfRequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/request/sfRequest.class.php
+END
+sfConsoleRequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/request/sfConsoleRequest.class.php
+END

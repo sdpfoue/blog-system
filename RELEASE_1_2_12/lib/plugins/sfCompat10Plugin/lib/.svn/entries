@@ -1,0 +1,92 @@
+10
+
+dir
+33658
+http://svn.symfony-project.com/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/lib
+http://svn.symfony-project.com
+
+
+
+2010-02-02T13:09:54.248684Z
+27415
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+cache
+dir
+
+config
+dir
+
+filter
+dir
+
+validator
+dir
+
+sfMail.class.php
+file
+
+
+
+
+2014-01-02T06:57:04.000000Z
+604d5fcf8ce2d949fa2b6209bee5617f
+2007-09-15T09:25:00.403570Z
+5106
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7875
+
+request
+dir
+
+view
+dir
+
+bridge
+dir
+
+util
+dir
+
+vendor
+dir
+
+exception
+dir
+

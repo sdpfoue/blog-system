@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util
+END
+sfBrowserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfBrowserTest.php
+END
+sfContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfContextTest.php
+END
+sfInflectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfInflectorTest.php
+END
+sfToolkitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfToolkitTest.php
+END
+sfFinderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfFinderTest.php
+END
+sfDomCssSelectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfDomCssSelectorTest.php
+END
+sfParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfParameterHolderTest.php
+END
+sfCallableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfCallableTest.php
+END
+sfNamespacedParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/util/sfNamespacedParameterHolderTest.php
+END

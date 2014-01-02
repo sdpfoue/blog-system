@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/skeleton/lib
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/skeleton/lib/helper.php
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/skeleton/lib/configuration.php
+END

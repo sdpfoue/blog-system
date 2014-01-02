@@ -1,0 +1,67 @@
+10
+
+dir
+33658
+http://svn.symfony-project.com/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib
+http://svn.symfony-project.com
+
+
+
+2009-11-14T14:10:33.810621Z
+23909
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+test
+dir
+
+log
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+database
+dir
+
+addon
+dir
+
+validator
+dir
+
+builder
+dir
+
+debug
+dir
+
+generator
+dir
+
+routing
+dir
+
+vendor
+dir
+

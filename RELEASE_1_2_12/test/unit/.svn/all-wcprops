@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit
+END
+sfContextMock.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/sfContextMock.class.php
+END
+sfParameterHolderTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/sfParameterHolderTest.class.php
+END
+sfEventDispatcherTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/sfEventDispatcherTest.class.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/lib/util
+END
+sfFillInForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfCompat10Plugin/lib/util/sfFillInForm.class.php
+END

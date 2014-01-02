@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 73
+doctrine http://doctrine.mirror.svn.symfony-project.com/tags/1.0.14/lib/
+
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Connection/Profiler
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Connection/Profiler/Exception.php
+END

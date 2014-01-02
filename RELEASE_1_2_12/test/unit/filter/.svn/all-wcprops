@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/filter
+END
+sfFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/filter/sfFilterTest.php
+END
+sfCommonFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/filter/sfCommonFilterTest.php
+END

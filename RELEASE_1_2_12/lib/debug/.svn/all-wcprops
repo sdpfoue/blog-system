@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug
+END
+sfWebDebugPanelMemory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanelMemory.class.php
+END
+sfWebDebugPanelSymfonyVersion.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanelSymfonyVersion.class.php
+END
+sfTimer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfTimer.class.php
+END
+sfWebDebug.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebug.class.php
+END
+sfWebDebugPanel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanel.class.php
+END
+sfWebDebugPanelTimer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanelTimer.class.php
+END
+sfDebug.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfDebug.class.php
+END
+sfWebDebugPanelCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanelCache.class.php
+END
+sfWebDebugPanelLogs.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanelLogs.class.php
+END
+sfWebDebugPanelConfig.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfWebDebugPanelConfig.class.php
+END
+sfTimerManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/debug/sfTimerManager.class.php
+END

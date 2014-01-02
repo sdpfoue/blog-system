@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml
+END
+sfYamlInlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/sfYamlInlineTest.php
+END
+sfYamlDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/sfYamlDumperTest.php
+END
+sfYamlParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/yaml/sfYamlParserTest.php
+END

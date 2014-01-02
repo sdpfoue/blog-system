@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Collection/Iterator
+END
+Expandable.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Collection/Iterator/Expandable.php
+END
+Offset.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Collection/Iterator/Offset.php
+END
+Normal.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Collection/Iterator/Normal.php
+END

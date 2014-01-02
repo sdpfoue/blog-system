@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder
+END
+SfMultiExtendObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfMultiExtendObjectBuilder.php
+END
+SfNestedSetPeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfNestedSetPeerBuilder.php
+END
+SfPeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfPeerBuilder.php
+END
+SfNestedSetBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfNestedSetBuilder.php
+END
+SfExtensionObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfExtensionObjectBuilder.php
+END
+SfMapBuilderBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfMapBuilderBuilder.php
+END
+SfObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfObjectBuilder.php
+END
+SfExtensionPeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/plugins/sfPropelPlugin/lib/builder/SfExtensionPeerBuilder.php
+END

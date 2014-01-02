@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/task
+END
+sfFilesystemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/test/unit/task/sfFilesystemTest.php
+END

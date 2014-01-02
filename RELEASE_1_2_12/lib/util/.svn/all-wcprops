@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util
+END
+sfBrowserBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfBrowserBase.class.php
+END
+sfParameterHolder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfParameterHolder.class.php
+END
+sfCallable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfCallable.class.php
+END
+sfNamespacedParameterHolder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfNamespacedParameterHolder.class.php
+END
+sfBrowser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfBrowser.class.php
+END
+sfContext.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfContext.class.php
+END
+sfInflector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfInflector.class.php
+END
+sfToolkit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfToolkit.class.php
+END
+sfFinder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfFinder.class.php
+END
+sfDomCssSelector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/util/sfDomCssSelector.class.php
+END

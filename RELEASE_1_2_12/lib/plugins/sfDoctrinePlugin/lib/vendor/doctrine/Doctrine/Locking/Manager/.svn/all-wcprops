@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Locking/Manager
+END
+Pessimistic.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6833/tags/1.0.14/lib/Doctrine/Locking/Manager/Pessimistic.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task
+END
+sfBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/sfBaseTask.class.php
+END
+sfTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/sfTask.class.php
+END
+sfFilesystem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/sfFilesystem.class.php
+END
+sfCommandApplicationTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/sfCommandApplicationTask.class.php
+END

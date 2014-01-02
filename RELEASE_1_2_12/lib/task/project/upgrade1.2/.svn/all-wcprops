@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.2
+END
+sfPropel13Upgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.2/sfPropel13Upgrade.class.php
+END
+sfConfigurationUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.2/sfConfigurationUpgrade.class.php
+END
+sfPluginAssetsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.2/sfPluginAssetsUpgrade.class.php
+END
+sfPropelIniUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.2/sfPropelIniUpgrade.class.php
+END
+sfFactories12Upgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/task/project/upgrade1.2/sfFactories12Upgrade.class.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/controller
+END
+sfWebController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/controller/sfWebController.class.php
+END
+sfController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/controller/sfController.class.php
+END
+sfConsoleController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/controller/sfConsoleController.class.php
+END
+sfFrontWebController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28282/tags/RELEASE_1_2_12/lib/controller/sfFrontWebController.class.php
+END
