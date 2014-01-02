@@ -11,7 +11,7 @@
     <?php $module=$sf_request->getParameter('module');
           $action=$sf_request->getParameter('action');  ?>
     <title><?php include_slot('title') ?>Make A Difference</title>
-    <link rel="shortcut icon" href="http://tjsweb.info/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <!--<link rel="alternate" type="application/atom+xml" title="Articles"
   href="<?php //echo url_for('feed/index', true) ?>" />-->
 	<link rel="alternate" type="application/rss+xml" title="Articles"
