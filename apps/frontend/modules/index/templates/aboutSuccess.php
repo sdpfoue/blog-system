@@ -2,6 +2,7 @@
   About - 
 <?php end_slot();?>
 
+<h2>About</h2>
 且论吃喝，兼谈技术，偶谑风月，不言国事<br/>
 <br/>
 GTalk: <br/>
@@ -18,3 +19,7 @@ Email: <br/>
 </p>
 <p>
 过去时：<a href="http://360.cn" target="_blank">奇虎360</a>, <a href="http://www.adobe.com" target="_blank">Adobe Systems</a>
+</p>
+<p>
+技术博客：<a href="http://tech.tjs.im" target="_blank">http://tech.tjs.im</a>
+</p>
